@@ -1,2 +1,3 @@
-module sorting {
+module Sorting {
+	exports sorting;
 }
